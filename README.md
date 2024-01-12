@@ -18,3 +18,14 @@ Olá, eu sou o David Diogenes, estudante do 4º termo de Análise e desenvolvime
 
 ## 🛠 Habilidades
 Javascript, HTML, CSS, Python, R, C++
+
+
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Davidiki/Davidiki)](https://github.com/Davidiki/Daviddiki)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-diogenes-77bb3847/)]([https://www.linkedin.com/in/gilberto-junior-26659022/](https://www.linkedin.com/in/david-diogenes-77bb3847/))
+
+[![Davidiki GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidiki)](https://github.com/Davidiki/github-readme-stats)
+
+## Linguagem e ferramentas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidiki&layout=compact)](https://github.com/Davidiki/github-readme-stats)
