@@ -17,7 +17,7 @@ Olá, eu sou o David Diogenes, estudante do 4º termo de Análise e desenvolvime
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, Python, R, C++
+Javascript, HTML, CSS, Python, R, C++, Java, Power BI, Machine Learning, Web Scraping, NLP
 
 
 
