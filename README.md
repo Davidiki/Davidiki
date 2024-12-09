@@ -13,7 +13,7 @@ Bem-vindo ao meu repositório de projetos! Aqui você encontrará exemplos de tr
    <img src="https://media1.giphy.com/media/4SY40ExbxfyOyD91VI/giphy.gif?cid=ecf05e47asunzh1lhm3u2hbfaw7ok027fx68j9n91uumhyg6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">  
 </div>  
 
-Olá, eu sou **David Diogenes**, estudante do 4º termo de **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por resolver problemas utilizando tecnologias modernas e por aprender constantemente. Meus interesses incluem:  
+Olá, eu sou **David Diogenes**, estudante do 6º termo de **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por resolver problemas utilizando tecnologias modernas e por aprender constantemente. Meus interesses incluem:  
 
 - Desenvolvimento de aplicações back-end  
 - Machine Learning e Data Science  
